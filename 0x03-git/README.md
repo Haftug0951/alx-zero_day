@@ -1,1 +1,1 @@
-Directory readme
+hi i am haftu from alx
